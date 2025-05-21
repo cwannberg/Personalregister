@@ -1,0 +1,12 @@
+﻿Uppgift 1
+Vilka klasser bör ingå i programmet?
+
+Employee.class
+
+
+Uppgift 2
+Vilka attribut och metoder bör ingå i dessa klasser?
+
+Employee:
+	string name;
+	int salary;
